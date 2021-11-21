@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/belajar-java.iml" filepath="$PROJECT_DIR$/belajar-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pendahuluan/Pendahuluan.iml" filepath="$PROJECT_DIR$/Pendahuluan/Pendahuluan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" filepath="$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/belajar-java.iml" filepath="$PROJECT_DIR$/.idea/belajar-java.iml" />
     </modules>
   </component>
 </project>
