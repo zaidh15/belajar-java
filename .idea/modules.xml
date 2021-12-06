@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Input Output/Input Output.iml" filepath="$PROJECT_DIR$/Input Output/Input Output.iml" />
       <module fileurl="file://$PROJECT_DIR$/Pendahuluan/Pendahuluan.iml" filepath="$PROJECT_DIR$/Pendahuluan/Pendahuluan.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" filepath="$PROJECT_DIR$/StrukturDasar/StrukturDasar.iml" />
