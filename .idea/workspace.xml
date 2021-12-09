@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b86e037c-4d5e-4ea5-a962-31aafabb0d7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Array.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/src/com/dicoding/javafundamental/array/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Percabangan/Percabangan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -37,13 +36,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.InisiasiArray">
-    <configuration name="InisiasiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.InisiasiArray" />
-      <module name="Array" />
+  <component name="RunManager" selected="Application.Switch">
+    <configuration name="IfThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThen" />
+      <module name="Percabangan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +50,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputOutputFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.inputouput.InputOutputFunction" />
-      <module name="Input Output" />
+    <configuration name="Ifelsethen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.Ifelsethen" />
+      <module name="Percabangan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.inputouput.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InisiasiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.InisiasiArray" />
+      <module name="Array" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,25 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserBufferedReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.inputouput.UserBufferedReader" />
-      <module name="Input Output" />
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.Switch" />
+      <module name="Percabangan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.inputouput.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.inputouput.UserOutput" />
-      <module name="Input Output" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.inputouput.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.Ifelsethen" />
+        <item itemvalue="Application.IfThen" />
         <item itemvalue="Application.InisiasiArray" />
         <item itemvalue="Application.MultidimensionalArray" />
-        <item itemvalue="Application.UserOutput" />
-        <item itemvalue="Application.UserBufferedReader" />
-        <item itemvalue="Application.InputOutputFunction" />
       </list>
     </recent_temporary>
   </component>
