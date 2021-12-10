@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b86e037c-4d5e-4ea5-a962-31aafabb0d7f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Percabangan/Percabangan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Perulangan/Perulangan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -14,6 +14,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -22,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="21EX1LPMU7UCSbm3sEVuqDlwZdn" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,13 +40,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.Switch">
-    <configuration name="IfThen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.IfThen" />
-      <module name="Percabangan" />
+  <component name="RunManager" selected="Application.SetPlanet">
+    <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.perulangan.DoWhile" />
+      <module name="Perulangan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.perulangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +54,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ifelsethen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.Ifelsethen" />
-      <module name="Percabangan" />
+    <configuration name="ForBersarang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.perulangan.ForBersarang" />
+      <module name="Perulangan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.perulangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InisiasiArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.InisiasiArray" />
-      <module name="Array" />
+    <configuration name="ListPlanet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.collection.ListPlanet" />
+      <module name="Collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultidimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.array.MultidimensionalArray" />
-      <module name="Array" />
+    <configuration name="SetPlanet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.collection.SetPlanet" />
+      <module name="Collection" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.array.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.percabangan.Switch" />
-      <module name="Percabangan" />
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dicoding.javafundamental.perulangan.While" />
+      <module name="Perulangan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dicoding.javafundamental.percabangan.*" />
+          <option name="PATTERN" value="com.dicoding.javafundamental.perulangan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.Ifelsethen" />
-        <item itemvalue="Application.IfThen" />
-        <item itemvalue="Application.InisiasiArray" />
-        <item itemvalue="Application.MultidimensionalArray" />
+        <item itemvalue="Application.SetPlanet" />
+        <item itemvalue="Application.ListPlanet" />
+        <item itemvalue="Application.DoWhile" />
+        <item itemvalue="Application.While" />
+        <item itemvalue="Application.ForBersarang" />
       </list>
     </recent_temporary>
   </component>
